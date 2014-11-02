@@ -1,0 +1,9 @@
+name: Halloween
+version: 1.7
+main: Hallo.ween.Core.Core
+author: [TedTheTechie]
+load: startup
+description: Some Halloween fun!
+commands:
+    halloween:
+      description: Basic Plugin Command

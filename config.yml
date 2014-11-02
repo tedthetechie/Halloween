@@ -1,0 +1,18 @@
+Permanent Night: false
+
+Creatures Wear Pumpkins: false
+
+Zombie On Death: false
+
+Random Screen Scare: false
+
+Better Witches: false
+
+Better Witches Spawn Rate: 2 #OUT OF 10
+
+Giant Spawn Chance: false
+
+Giant Spawn Rate: 2 #OUT OF 10
+
+Permanent Night Worlds:
+    - 'world'
